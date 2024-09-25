@@ -1,6 +1,4 @@
-import Image from "next/image";
 import Link from 'next/link'
-import Nature from '../../public/nature.avif'
 
 export default function home(){
   
